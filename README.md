@@ -1,4 +1,4 @@
-# Remnant---2D-Space-Shooter
+# Remnant - 2D Space Shooter
 
 First Project using C# and Unity
 
